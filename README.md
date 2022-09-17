@@ -1,8 +1,7 @@
 # CAPS
 
-This project implements CAPS: Comprehensible Abstract Policy Summaries
-
-Joe McCalmon, Thai Le, SarraAlqahtani, Dongwon Lee, “CAPS: Comprehensible Abstract Policy Summaries for Explaining Reinforcement Learning Agents”, The 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS2022), accepted
+This project implements CAPS: Comprehensible Abstract Policy Summaries for RL. Please use this citation:
+- Joe McCalmon, Thai Le, SarraAlqahtani, Dongwon Lee, “CAPS: Comprehensible Abstract Policy Summaries for Explaining Reinforcement Learning Agents”, The 21st   International Conference on Autonomous Agents and Multiagent Systems (AAMAS2022), accepted
 
 
 To run CAPS for an implemented environment:
